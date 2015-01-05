@@ -1,0 +1,90 @@
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\EduApp.UnitTest.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\EduApp.UnitTest.pdb
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\obj\Debug\EduApp.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\obj\Debug\EduApp.UnitTest.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\obj\Debug\EduApp.UnitTest.pdb
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\EduAppWeb.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Owin.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\AutoMapper.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Web.Mvc.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.Net4.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\EduAppWeb.pdb
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.pdb
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\AutoMapper.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.Net4.pdb
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\JuanJo\Documents\Visual Studio 2013\Projects\EduApp\EduApp.UnitTest\bin\Debug\AutoMapper.Net4.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\AutoMapper.Net4.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\EduApp.UnitTest.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\EduApp.UnitTest.pdb
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\EduAppWeb.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\nunit.framework.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Mvc.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Optimization.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Owin.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\EntityFramework.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\AutoMapper.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Web.Mvc.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.Net4.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Razor.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\EduAppWeb.pdb
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\nunit.framework.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Mvc.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.pdb
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Optimization.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\EntityFramework.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\AutoMapper.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\StructureMap.Net4.pdb
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.Razor.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.xml
+D:\Git\EduApp\EduApp.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Git\EduApp\EduApp.UnitTest\obj\Debug\EduApp.UnitTest.csprojResolveAssemblyReference.cache
+D:\Git\EduApp\EduApp.UnitTest\obj\Debug\EduApp.UnitTest.dll
+D:\Git\EduApp\EduApp.UnitTest\obj\Debug\EduApp.UnitTest.pdb

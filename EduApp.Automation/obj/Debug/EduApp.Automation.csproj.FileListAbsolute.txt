@@ -1,0 +1,9 @@
+D:\Git\EduApp\EduApp.Automation\bin\Debug\EduApp.Automation.dll
+D:\Git\EduApp\EduApp.Automation\bin\Debug\EduApp.Automation.pdb
+D:\Git\EduApp\EduApp.Automation\bin\Debug\WebDriver.dll
+D:\Git\EduApp\EduApp.Automation\bin\Debug\WebDriver.Support.dll
+D:\Git\EduApp\EduApp.Automation\bin\Debug\WebDriver.xml
+D:\Git\EduApp\EduApp.Automation\bin\Debug\WebDriver.Support.xml
+D:\Git\EduApp\EduApp.Automation\obj\Debug\EduApp.Automation.csprojResolveAssemblyReference.cache
+D:\Git\EduApp\EduApp.Automation\obj\Debug\EduApp.Automation.dll
+D:\Git\EduApp\EduApp.Automation\obj\Debug\EduApp.Automation.pdb

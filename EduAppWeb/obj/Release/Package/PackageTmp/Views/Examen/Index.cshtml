@@ -1,0 +1,55 @@
+﻿@model IEnumerable<EduAppWeb.Models.Examen.ExamSummaryViewModel>
+
+@{
+    ViewBag.Title = "Examen Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Examen - Index Page</h2>
+
+<p>
+    @Html.ActionLink("Create New", "New")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ExamId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Curso)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Carrera)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExamType)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExamId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Curso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Carrera)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExamType)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ExamId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ExamId }) |
+                @Html.ActionLink("Delete", "Delete", 
+                    new { id = item.ExamId },
+                     new { onclick = "return confirm('Are you sure you wish to delete this issue? You cannot undo this action.?');" })
+                )
+            </td>
+        </tr>
+    }
+
+</table>

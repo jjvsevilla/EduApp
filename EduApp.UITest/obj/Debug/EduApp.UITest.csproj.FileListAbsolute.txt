@@ -1,0 +1,15 @@
+D:\Git\EduApp\EduApp.UITest\obj\Debug\EduApp.UITest.csprojResolveAssemblyReference.cache
+D:\Git\EduApp\EduApp.UITest\bin\Debug\EduApp.UITest.dll.config
+D:\Git\EduApp\EduApp.UITest\bin\Debug\EduApp.UITest.dll
+D:\Git\EduApp\EduApp.UITest\bin\Debug\EduApp.UITest.pdb
+D:\Git\EduApp\EduApp.UITest\bin\Debug\nunit.framework.dll
+D:\Git\EduApp\EduApp.UITest\bin\Debug\TechTalk.SpecFlow.dll
+D:\Git\EduApp\EduApp.UITest\bin\Debug\nunit.framework.xml
+D:\Git\EduApp\EduApp.UITest\obj\Debug\EduApp.UITest.dll
+D:\Git\EduApp\EduApp.UITest\obj\Debug\EduApp.UITest.pdb
+D:\Git\EduApp\EduApp.UITest\bin\Debug\EduApp.Automation.dll
+D:\Git\EduApp\EduApp.UITest\bin\Debug\WebDriver.dll
+D:\Git\EduApp\EduApp.UITest\bin\Debug\EduApp.Automation.pdb
+D:\Git\EduApp\EduApp.UITest\bin\Debug\WebDriver.xml
+D:\Git\EduApp\EduApp.UITest\bin\Debug\WebDriver.Support.dll
+D:\Git\EduApp\EduApp.UITest\bin\Debug\WebDriver.Support.xml
