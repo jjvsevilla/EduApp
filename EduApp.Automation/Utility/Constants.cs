@@ -6,6 +6,7 @@
         public static string FrameworkProject = "EduApp.Automation";
         public static string SpecFlowProject = "EduApp.UITest";
         public static string DebugFolder = @"bin\Debug";
+        public static string ReleaseFolder = @"bin\Release";
         public static string DriverFolder = @"Drivers";
         public static string DevUrl = @"http://localhost:82/";
 

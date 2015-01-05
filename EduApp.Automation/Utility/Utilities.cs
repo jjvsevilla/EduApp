@@ -48,8 +48,10 @@ namespace EduApp.Automation.Utility
 
         private static string GetDriverPath()
         {
-            var projectPath = Directory.GetCurrentDirectory().Replace(Constants.SpecFlowProject, Constants.FrameworkProject);
-            var driverPath = Path.Combine(projectPath.Replace(Constants.DebugFolder,""), Constants.DriverFolder);
+            var projectPath = Directory.GetCurrentDirectory()
+                .Replace(Constants.DebugFolder, Constants.ReleaseFolder)
+                .Replace(Constants.SpecFlowProject, Constants.FrameworkProject);
+            var driverPath = Path.Combine(projectPath, Constants.DriverFolder);
             return driverPath;
         }
 
