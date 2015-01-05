@@ -3,6 +3,7 @@
 	As a math idiot
 	I want to be told the sum of two numbers
 
+@smoke
 Scenario: the user login the system
 	Given that the user is at login page
 		And the user inserts "a@a.com" as email
