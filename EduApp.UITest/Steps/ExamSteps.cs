@@ -18,10 +18,9 @@ namespace EduApp.UITest.Steps
         [When(@"the user clicks the Exam link")]
         public void WhenTheUserClicksTheExamLink()
         {
-            _exam.GoTo();
+            _exam.GoToExamenPage();
         }
-
-
+        
         [Then(@"the system redirects to the exam page")]
         public void ThenTheSystemRedirectsToTheExamPage()
         {
@@ -29,6 +28,12 @@ namespace EduApp.UITest.Steps
             const string examTitle = "Examen Page";
 
             Assert.AreEqual(examTitle, pageTitle);
+        }
+
+        [When(@"the user clicks on create new")]
+        public void WhenTheUserClicksOnCreateNew()
+        {
+            _exam.GoToNewExamenPage();
         }
 
     }

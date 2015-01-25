@@ -3,10 +3,11 @@ using OpenQA.Selenium.Support.PageObjects;
 
 namespace EduApp.Automation.Pages
 {
-    public class ExamPage : BasePage
+    public class ExamPage : NavigationPage
     {
-        [FindsBy(How=How.LinkText, Using="Examen")]
-        private IWebElement LinkExamen;
+
+        [FindsBy(How = How.LinkText, Using = "Create New")]
+        private IWebElement NewExamenLink;
 
         public ExamPage(IWebDriver driver) 
             : base(driver)
@@ -19,10 +20,9 @@ namespace EduApp.Automation.Pages
             return Title();
         }
 
-        public void GoTo()
+        public void GoToNewExamenPage()
         {
-            LinkExamen.Click();
+            NewExamenLink.Click();   
         }
-
     }
 }

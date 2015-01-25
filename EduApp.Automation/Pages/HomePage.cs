@@ -2,7 +2,7 @@
 
 namespace EduApp.Automation.Pages
 {
-    public class HomePage : BasePage
+    public class HomePage : NavigationPage
     {
         public HomePage(IWebDriver driver)
             : base(driver)

@@ -38,11 +38,13 @@ namespace EduApp.UITest.Steps
             _login.WithPassword(p0);
         }
 
-        [When(@"the user clicks the button")]
+        [When(@"the user clicks the login button")]
         public void WhenTheUserClicksTheButton()
         {
             _login.Submit();
         }
+
+        //lalal
 
     }
 }
